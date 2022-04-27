@@ -26,7 +26,6 @@ public class UDPReceive : MonoBehaviour
     }
 
 
-    // receive thread
     private void ReceiveData()
     {
 
